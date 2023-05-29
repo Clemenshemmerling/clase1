@@ -1,3 +1,35 @@
 body {
     background-color: #fafafa;
+    font-family: 'Roboto', 'Noto Sans';
+    margin: 0;
+    padding: 0;
+}
+
+.roboto-font {
+    font-family: 'Roboto';
+}
+
+.rokkitt-font {
+    font-family: 'Rokkitt';
+}
+
+.noto-sans-font {
+    font-family: 'Noto Sans';
+}
+
+.top-menu {
+    background-color: #001950;
+    color: white;
+    padding: 10px 0 10px 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.top-menu-options {
+    margin-left: 15px;
+}
+
+.info-header {
+    margin-top: 50px;
 }
